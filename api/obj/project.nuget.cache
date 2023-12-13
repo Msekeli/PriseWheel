@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ftjxBioQRVLRRpruAQ+4KHRhv8hbj8v/KfJ/UJjMN0QIeiIa1rZbZJScCK1JMNPTaHUtcKwQ/dNGcjB0aKnYw==",
+  "dgSpecHash": "zq/9usU5ec2LUjYXTOfAp89HP+VCjX4B0uniFKXi4YlpKnRMTRBD6jGxOTId1sn6Nl4xiKnsYGXkOzo+AV8dsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MsekeliMkwibiso\\OneDrive - Digital Gaming Corporation\\Desktop\\PriseWheel\\aip\\api\\api.csproj",
+  "projectFilePath": "C:\\Users\\MsekeliMkwibiso\\OneDrive - Digital Gaming Corporation\\Desktop\\PrizeWheel\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MsekeliMkwibiso\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\MsekeliMkwibiso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
